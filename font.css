@@ -1,6 +1,5 @@
 @font-face {
   font-family: 'GlitchHei';
-  /* 只要 css 和 ttf 在同一个仓库文件夹下，就可以直接写文件名 */
   src: url('./glitch.ttf') format('truetype'); 
   font-weight: normal;
   font-style: normal;

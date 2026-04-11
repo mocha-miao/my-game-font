@@ -29,3 +29,11 @@
   font-style: normal;
   font-display: swap;
 }
+
+@font-face {
+  font-family: 'Industrial';
+  src: url('https://gcore.jsdelivr.net/gh/mocha-miao/my-game-font/Industrial(English).ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

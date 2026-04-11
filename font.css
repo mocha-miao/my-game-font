@@ -1,27 +1,31 @@
 @font-face {
   font-family: 'GlitchHei';
-  src: url('./glitch.ttf') format('truetype'); 
+  src: url('https://gcore.jsdelivr.net/gh/mocha-miao/my-game-font/glitch.ttf') format('truetype'); 
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'PixelNum';
-  src: url('./pixelnum.ttf') format('truetype');
+  src: url('https://gcore.jsdelivr.net/gh/mocha-miao/my-game-font/pixelnum.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'QieGe';
-  src: url('./qiege.ttf') format('truetype');
+  src: url('https://gcore.jsdelivr.net/gh/mocha-miao/my-game-font/qiege.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'KuaiKan';
-  src: url('./kuaikanshijie.ttf') format('truetype');
+  src: url('https://gcore.jsdelivr.net/gh/mocha-miao/my-game-font/kuaikanshijie.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }

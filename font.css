@@ -7,6 +7,30 @@
 }
 
 @font-face {
+  font-family: 'shouxie_Chinese';
+  src: url('https://gcore.jsdelivr.net/gh/mocha-miao/my-game-font/shouxie_Chinese.ttf') format('truetype'); 
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'marker_Chinese';
+  src: url('https://gcore.jsdelivr.net/gh/mocha-miao/my-game-font/marker_Chinese.ttf') format('truetype'); 
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'marker_English';
+  src: url('https://gcore.jsdelivr.net/gh/mocha-miao/my-game-font/marker_English.otf') format('truetype'); 
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
   font-family: 'PixelNum';
   src: url('https://gcore.jsdelivr.net/gh/mocha-miao/my-game-font/pixelnum.ttf') format('truetype');
   font-weight: normal;
